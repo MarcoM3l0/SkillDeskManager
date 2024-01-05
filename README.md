@@ -1,7 +1,7 @@
 # Estudo de Caso - Sistema de Cadastro para Service Desk em Java
 
 ## Visão Geral
-Este projeto em Java visa atender às necessidades de uma empresa de Service Desk, fornecendo um sistema simples de cadastro de pessoas. O cadastro é dividido em três categorias: Clientes, Atendentes e Técnicos, cada uma com suas características específicas.
+Este projeto em Java visa atender às necessidades de uma empresa de Service Desk, fornecendo um sistema muito simples de cadastro de pessoas. O cadastro é dividido em três categorias: Clientes, Atendentes e Técnicos, cada uma com suas características específicas.
 
 ## Funcionalidades
 
