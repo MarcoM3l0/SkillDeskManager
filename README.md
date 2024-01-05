@@ -20,7 +20,7 @@ Este projeto em Java visa atender às necessidades de uma empresa de Service Des
 ### Informações Armazenadas
 ## Diagrama de Classes
 
-```plantuml
+plantuml
 @startuml
 class Pessoa {
   - codigo: int
