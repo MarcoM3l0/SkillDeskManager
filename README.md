@@ -20,7 +20,7 @@ Este projeto em Java visa atender às necessidades de uma empresa de Service Des
 ### Informações Armazenadas
 ## Diagrama de Classes
 
-plantuml
+```plantuml
 @startuml
 class Pessoa {
   - codigo: int
@@ -49,7 +49,7 @@ Pessoa <|-- Cliente
 Pessoa <|-- Atendente
 Pessoa <|-- Tecnico
 @enduml
-
+```
 
 ## Objetivo do Projeto
 O objetivo principal deste projeto é fornecer uma base para aprendizado em Java, demonstrando a implementação de um sistema de cadastro simples e funcional. Os conceitos abordados incluem estruturas de classe, herança e interação com o usuário.
